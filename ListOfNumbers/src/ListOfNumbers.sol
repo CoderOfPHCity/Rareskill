@@ -22,7 +22,7 @@ contract ListOfNumbers {
         uint pop = arr[arr.length-1];
         arr.pop();
         arr[index] = pop;
-
+//juywgdu
 
     }
 
